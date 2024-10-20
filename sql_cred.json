@@ -1,0 +1,7 @@
+{
+    "dbname": "stock_db",
+    "user": "sunny",
+    "password": "maggie",
+    "host": "localhost",
+    "port": "5432"
+  }

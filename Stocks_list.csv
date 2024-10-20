@@ -1,0 +1,25 @@
+stock_name,stock_symbol,exchange,sector
+Tata Consultancy Services Ltd,TCS,NSE,Software & IT Services
+Infosys Ltd,INFY,NSE,Software & IT Services
+HCL Technologies Ltd,HCLTECH,NSE,Software & IT Services
+HDFC Bank Ltd,HDFCBANK,NSE,Banks
+ICICI Bank Ltd,ICICIBANK,NSE,Banks
+State Bank of India,SBIN,NSE,Banks
+Oil and Natural Gas Corporation Ltd,ONGC,NSE,Energy
+Oil India,OIL,NSE,Energy
+Hindustan Oil Exploration Company Ltd,HINDOILEXP,NSE,Energy
+Bajaj Finance Ltd,BAJFINANCE,NSE,Finance
+Bajaj Finance Ltd,BAJFINANCE,NSE,Finance
+Jio Financial Services Ltd,JIOFIN,NSE,Finance
+ITC Ltd,ITC,NSE,FMCG
+Hindustan Unilever Ltd,HINDUNILVR,NSE,FMCG
+Nestle India Limited,NESTLEIND,NSE,FMCG
+Maruti Suzuki India Ltd,MARUTI,NSE,Automobile & Ancillaries
+Tata Motors Ltd,TATAMOTORS,NSE,Automobile & Ancillaries
+Mahindra And Mahindra Ltd,M&M,NSE,Automobile & Ancillaries
+Sun Pharmaceutical Industries Ltd,SUNPHARMA,NSE,Healthcare
+Cipla Ltd,CIPLA,NSE,Healthcare
+Dr Reddy's Laboratories Ltd,DRREDDY,NSE,Healthcare
+Pidilite Industries Limited,PIDILITIND,NSE,Chemicals
+SRF Ltd,SRF,NSE,Chemicals
+Gujarat Fluorochemicals Ltd,FLUOROCHEM,NSE,Chemicals
