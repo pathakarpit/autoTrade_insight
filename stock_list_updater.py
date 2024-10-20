@@ -13,6 +13,9 @@ if response.status_code == 200:
     stock_data = pd.read_csv(data)
     
     # Display the first few rows of the data
-    print(stock_data.head())
+    print('updated list data recieved')
+    stock_data.to_csv('Stock_list.csv', index=False)
+    print('list updated')
 else:
     print(f"Failed to download the file, status code: {response.status_code}")
+
